@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kezialacerda
 - 👀 I’m interested in programação de sistemas code e no code, administração de dados e análise de dados.
-- 🌱 I’m currently learning  Bubble no code e power bi.
-- 💞️ I’m looking to collaborate on projeto de aplicação no code web responsivo, para controle de devoluções de produtos.
+- 🌱 I’m currently learning  Bubble, Java FullStack e Power BI.
 - 📫 How to reach me https://www.linkedin.com/in/kezia-lacerda-72b021137/
 
 <!---
